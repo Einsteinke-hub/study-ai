@@ -1,15 +1,16 @@
 # 📚 Study Buddy - AI Flashcard Generator
 
-A web app that creates interactive flashcards from study notes using AI.
+A collaborative web application that transforms study notes into interactive flashcards using AI.
 
 ---
 
 ## ✨ Features
 
-- **Multi-topic support** (Biology, History, Programming, etc.)
-- **Interactive flip cards** with animations
-- **MySQL database integration**
-- **Responsive design** for all devices
+- **Multi-topic support:** Biology, History, Programming, and more
+- **Interactive flip cards:** Engaging animations for active learning
+- **MySQL database integration:** Robust and scalable storage
+- **Responsive design:** Works seamlessly across all devices
+- **Team collaboration:** Built and maintained by a diverse team
 
 ---
 
@@ -21,10 +22,17 @@ A web app that creates interactive flashcards from study notes using AI.
 
 ---
 
-## 👥 Contributors
+## 👥 Team Contributors
 
-- **Einstein Dipondo** - [einstenmarto@gmail.com](mailto:einstenmarto@gmail.com)
-- **Metrine Wairimu** - [wairimu.metrine5@gmail.com](mailto:wairimu.metrine5@gmail.com)
+Our project is developed and maintained by the following team members:
+
+- **Einstein Dipondo** – [einstenmarto@gmail.com](mailto:einstenmarto@gmail.com)
+- **Metrine Wairimu** – [wairimu.metrine5@gmail.com](mailto:wairimu.metrine5@gmail.com)
+- **Lebo Maria** – [marialebo06@gmail.com](mailto:marialebo06@gmail.com)
+- **Dammyart Academy** – [Dammyartacademy@gmail.com](mailto:Dammyartacademy@gmail.com)
+- **Stephen Ayuen Mach** – [ayuenmach09@gmail.com](mailto:ayuenmach09@gmail.com)
+
+*Want to join us? Open an issue or pull request!*
 
 ---
 
@@ -33,10 +41,13 @@ A web app that creates interactive flashcards from study notes using AI.
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/your-username/study-buddy.git
-cd study-buddy
+git clone https://github.com/Einsteinke-hub/study-ai.git
+cd study-ai
 python -m venv venv
+# On Windows:
 venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -51,7 +62,7 @@ MYSQL_PASSWORD=your_password
 MYSQL_DB=study_buddy
 ```
 
-### 3. Run Application
+### 3. Run the Application
 
 ```bash
 python app.py
@@ -61,4 +72,20 @@ Visit [http://localhost:5000](http://localhost:5000) to use the app.
 
 ---
 
-## 📞 Support
+## 📞 Support & Feedback
+
+Questions, suggestions, or issues?  
+Contact any team member above or open a GitHub issue.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from everyone!  
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) before submitting pull requests.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
