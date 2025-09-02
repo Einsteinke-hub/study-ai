@@ -68,7 +68,7 @@ MYSQL_DB=study_buddy
 python app.py
 ```
 
-Visit [http://localhost:5000](http://localhost:5000) to use the app.
+Visit [https://einsteinke-hub.github.io/study-ai/] to use the app.
 
 ---
 
