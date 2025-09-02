@@ -26,7 +26,7 @@ A collaborative web application that transforms study notes into interactive fla
 
 Our project is developed and maintained by the following team members:
 
-- **Einstein Dipondo** – [einstenmarto@gmail.com](mailto:einstenmarto@gmail.com)
+- **Einstein Dipondo** – [einstenmarto30@gmail.com](mailto:einstenmarto30@gmail.com)
 - **Metrine Wairimu** – [wairimu.metrine5@gmail.com](mailto:wairimu.metrine5@gmail.com)
 - **Lebo Maria** – [marialebo06@gmail.com](mailto:marialebo06@gmail.com)
 - **Dammyart Academy** – [Dammyartacademy@gmail.com](mailto:Dammyartacademy@gmail.com)
